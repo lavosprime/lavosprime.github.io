@@ -1,0 +1,17 @@
+# Jekyll settings
+permalink: /blog/:year/:month/:day/:title/
+timezone: America/Los_Angeles
+safe: true
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Site data
+url: "lavospri.me" # the base hostname & protocol for your site
+title: Cooper Johnson
+email: lavosprime@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal site of Cooper Johnson.
+  Hosted on GitHub Pages.
+twitter_username: lavosprime
+github_username:  lavosprime

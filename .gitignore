@@ -1,0 +1,11 @@
+# Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+# Use most recent github-pages gem by default
+Gemfile.lock
+
+# Vim swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*~
