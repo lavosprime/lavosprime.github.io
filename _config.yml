@@ -5,6 +5,8 @@ safe: true
 markdown: kramdown
 kramdown:
   input: GFM
+exclude:
+  ["node_modules", "vendor", "Gemfile*", "README*", "LICENSE*"]
 
 # Site data
 url: "lavospri.me" # the base hostname & protocol for your site
