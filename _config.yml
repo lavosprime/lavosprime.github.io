@@ -2,6 +2,8 @@
 permalink: /blog/:year/:month/:day/:title/
 timezone: America/Los_Angeles
 safe: true
+gems:
+  - jekyll-redirect-from
 markdown: kramdown
 kramdown:
   input: GFM
