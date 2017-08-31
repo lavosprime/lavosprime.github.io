@@ -1,5 +1,4 @@
 ---
   layout: default
   redirect_to:
-    https://www.dropbox.com/s/6aeou7id2vz1cf6/cooper_johnson_resume_2016-08-07.pdf?dl=0
----
+    https://www.dropbox.com/s/huytbrpr9p6zaa3/cooper_johnson_resume_2017-08-31.pdf?dl=0
